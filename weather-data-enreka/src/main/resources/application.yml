@@ -1,0 +1,11 @@
+server:
+  port: 8783
+
+spring:
+  application:
+    name: weather-data-enreka
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8781/eureka/
