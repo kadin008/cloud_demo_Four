@@ -1,7 +1,7 @@
 package cn.net.aipic.spring.clond.weather.job;
 
-import cn.net.aipic.spring.cloud.weather.service.WeatherDataCollectionService;
-import cn.net.aipic.spring.cloud.weather.vo.City;
+import cn.net.aipic.spring.clond.weather.service.WeatherDataCollectionService;
+import cn.net.aipic.spring.clond.weather.vo.City;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
 import org.slf4j.Logger;

@@ -1,6 +1,6 @@
 package cn.net.aipic.spring.clond.weather.service.Impl;
 
-import cn.net.aipic.spring.cloud.weather.service.WeatherDataCollectionService;
+import cn.net.aipic.spring.clond.weather.service.WeatherDataCollectionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,6 @@
 package cn.net.aipic.spring.clond.weather.config;
 
-import cn.net.aipic.spring.cloud.weather.job.WeatherDataSyncJob;
+import cn.net.aipic.spring.clond.weather.job.WeatherDataSyncJob;
 import org.quartz.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

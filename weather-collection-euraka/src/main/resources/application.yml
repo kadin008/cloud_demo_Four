@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: weather-eureka-client
+    name: weather-collection-euraka
 
 eureka:
   client:
