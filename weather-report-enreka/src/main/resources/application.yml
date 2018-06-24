@@ -1,0 +1,13 @@
+# 热部署静态文件
+spring:
+  thymeleaf:
+    cache: false
+  application:
+    name: weather-report-enreka
+server:
+  port: 8785
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8781/eureka/
